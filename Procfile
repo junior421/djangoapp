@@ -1,0 +1,1 @@
+web: gunicorn amroneng.wsgi --log-file -
